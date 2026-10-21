@@ -1,5 +1,5 @@
 # Tektronic-GBA-Demo
- A Gameboy Advance Sound demo showing how to use this extremly undocumented tool called Tektronic Wave.
+ A Gameboy Advance Sound demo showing how to use this extremely undocumented tool called Tektronic Wave.
 
 <H1> ONLY USE THIS IF FOR A PROJECT YOU HAVE ALREADY MADE </H1>
 
